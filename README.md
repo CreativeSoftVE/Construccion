@@ -1,26 +1,12 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+   _____                _   _            _____        __ _      _____              
+  / ____|              | | (_)          / ____|      / _| |    / ____|     /\      
+ | |     _ __ ___  __ _| |_ ___   _____| (___   ___ | |_| |_  | |         /  \     
+ | |    | '__/ _ \/ _` | __| \ \ / / _ \\___ \ / _ \|  _| __| | |        / /\ \    
+ | |____| | |  __/ (_| | |_| |\ V /  __/____) | (_) | | | |_  | |____ _ / ____ \ _ 
+  \_____|_|  \___|\__,_|\__|_| \_/ \___|_____/ \___/|_|  \__|  \_____(_)_/    \_(_)
+  
+  
+                                                                                   
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Hi there! Welcome to CreativeSoft´s construction site!

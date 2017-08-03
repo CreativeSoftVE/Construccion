@@ -10,7 +10,7 @@
  * Copyright 2016, Codrops
  * http://www.codrops.com
  */
-;(function(window) {
+(function(window) {
 
 	'use strict';
 
